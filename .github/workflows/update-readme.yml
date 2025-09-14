@@ -1,0 +1,46 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # daily at 00:30 UTC — change as needed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  statuses: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+        working-directory: .
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: node scripts/generate-readme.js
+
+      - name: Create Pull Request with changes
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(readme): auto update README (languages & stats)"
+          branch: update/readme-auto
+          title: "Auto-update README (languages & stats)"
+          body: "This PR updates the README with latest language stats and timestamp (automated)."
+          labels: automated, update
