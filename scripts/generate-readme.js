@@ -82,7 +82,7 @@ async function run() {
     '',
     '### 📊 GitHub Stats',
     '<p align="center">',
-    `  <img src="https://github-readme-stats.vercel.app/api?username=${owner}&show_icons=true&theme=tokyonight" alt="GitHub Stats" />`,
+    `  <img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=geethakash&show_icons=true&locale=en&theme=tokyonight" />
     '</p>',
     endMarker
   ].join('\n');
