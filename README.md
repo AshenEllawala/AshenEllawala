@@ -1,70 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ashen Ellawala</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | Azure Enthusiast | System Administration Explorer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Ashen%20Ellawala&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Cloud+%26+DevOps+Engineer;Azure+%7C+AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🙋 About Me
+
+I'm a final-year **BICT (Network Technology)** undergraduate at the **University of Kelaniya**, building my path toward becoming a **Cloud & DevOps Engineer**. I'm hands-on with Azure and AWS, and I care about building infrastructure that's secure, automated, and reliable. Currently preparing for my **AZ-104 (Azure Administrator)** certification retake, and exploring **AWS** as a second cloud platform alongside Azure.
+
+<br/>
+
+## 🚀 Key Projects
+
+- 🔁 **[GitOps CI/CD Pipeline on AKS](https://github.com/AshenEllawala/azure-real-infrastructure)** — end-to-end infrastructure pipeline using Docker, Terraform, AKS, GitHub Actions, ArgoCD, and Prometheus/Grafana
+- 🛡️ **[Backup Verification Pipeline](https://github.com/AshenEllawala/backup-verify-pipeline)** — automated backup integrity checks using Azure Container Instances, Prometheus Pushgateway, and Grafana
+
+<br/>
+
+## 🛠️ What Tools Do I Use?
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,bash,python,java,c,mysql,mongodb,grafana,prometheus&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Protocols-003366?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+<br/>
+
+## 📫 How To Reach Me?
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ashen-ellawala">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ashenellawala5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://medium.com/@@ashenellawala5">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently pursuing my **BICT degree** at the **University of Kelaniya**  
-- 🌱 Learning and building skills in **Cloud Computing (Azure)**, **DevOps**, and **System Administration**  
-- 🔭 Working on projects: **Azure**, **Docker**, **CI/CD**, **Linux admin**  
-- 💡 Passionate about creating **secure, scalable, and sustainable solutions**  
-- 📫 Reach me at: **ashenellawala5@gmail.com**
+<br/>
 
----
+## 📊 GitHub Stats
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ashen-ellawala-06075a277" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/ashen.ellawala" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshenEllawala05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenEllawala05&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-</p>
+<br/>
 
----
+<img src="https://streak-stats.demolab.com/?user=AshenEllawala05&theme=tokyonight&hide_border=true" />
 
-<!-- AUTO-GEN:START -->
-<!-- The section below is automatically generated by .github/workflows/update-readme.yml -->
-### ⏱️ Last updated
-*(This section is auto-updated by GitHub Actions)*
+</div>
 
-### 📈 Top languages (from this repo)
-*(Languages & percentages will be listed here)*
+<br/>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenellawala&show_icons=true&theme=tokyonight" alt="Ashen's GitHub Stats" />
-</p>
-<!-- AUTO-GEN:END -->
+## 🏆 Trophies
 
----
-*Thanks for visiting — feel free to connect!*
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AshenEllawala05&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
+</div>
 
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshenEllawala05&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshenEllawala05&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Thanks for visiting — feel free to connect! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
